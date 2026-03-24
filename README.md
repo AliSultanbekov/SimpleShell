@@ -1,4 +1,4 @@
-# SimleShell
+# SimpleShell
 
 A lightweight Unix-style shell written in C for CS210.  
 It supports core command execution, useful built-in commands, aliases, and persistent command history.
